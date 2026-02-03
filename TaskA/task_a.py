@@ -1,4 +1,4 @@
-# Copyright (c) 2025 Ville Heikkiniemi
+# Copyright (c) 2026 Prabesh Shrestha 
 #
 # This code is licensed under the MIT License.
 # You are free to use, modify, and distribute this code,
